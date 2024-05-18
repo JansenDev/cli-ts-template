@@ -1,0 +1,33 @@
+export const REPOSITORY = {
+  MASTER: "",
+
+  QUALITY: "https",
+
+  COWFARMER: "https",
+
+  SERVICES: "https",
+
+  ADVISORY: "https",
+  CRONJOB_SMS: "https.git",
+
+  WEB_MI_GLORIA: "https.git",
+
+  WEB_BACKOFFICE: "https-web.git",
+
+  LIBRARIES_BACKEND: "githttps-react.git",
+
+  UTILITIES: "httpsutilities.git",
+};
+
+export const REPOSITORY_LIST = [
+  REPOSITORY.MASTER,
+  REPOSITORY.QUALITY,
+  REPOSITORY.COWFARMER,
+  REPOSITORY.SERVICES,
+  REPOSITORY.ADVISORY,
+  REPOSITORY.CRONJOB_SMS,
+  REPOSITORY.WEB_MI_GLORIA,
+  REPOSITORY.WEB_BACKOFFICE,
+  REPOSITORY.LIBRARIES_BACKEND,
+  REPOSITORY.UTILITIES,
+];
